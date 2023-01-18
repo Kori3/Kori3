@@ -1,4 +1,6 @@
 
-I don't know how to code, but i can still help with other things
+I don't know how to code, but i can still help with other things.
 
-![](https://media.discordapp.net/attachments/979882363934879754/1051213881583874179/bocchi.gif)
+Also I love playing osu
+
+![](https://osu-sig.vercel.app/card?user=Clan%20TX&mode=std&lang=en&blur=6&animation=true&hue=125&mini=true)
